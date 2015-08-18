@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Ahmed Abu Elyazeed</title>
+</head>
+<style type="text/css">
+body {background-image: url("http://7818-presscdn-0-76-pagely.netdna-ssl.com/wp-content/uploads/2014/01/photodune-3580063-wooden-surface-m.jpg"); padding: 20px; font-size:20px;}
+h1 {padding: inherit; font-weight: normal; color: DarkCyan ; margin: 0px; font-family: Georgia, Times, serif; font-size: 250%; text-shadow: 2px 2px 3px #666666; padding-bottom: 10px;}
+h2 {padding: inherit; color: rgb(238,62,128); text-shadow: 1px 1px 3px #666666;}
+p {border-radius: 1em 4em 1em 4em / 2em 1em 2em 1em; -moz-border-radius: 1em 4em 1em 4em / 2em 1em 2em 1em; -webkit-border-radius:  1em 4em 1em 4em / 2em 1em 2em 1em; padding: inherit; background-color: white; font-family: Arial, Verdana, sans-serif; color: rgb(100,100,90);}
+</style>
+<body>
+<h1>Welcome !</h1>
+<p>My name is <b>Ahmed Khaled Mohammed Abu Elyazeed</b>, I'm from Alexandria and I'm 18 years old.<br />I have 2 sisters, the older one is at her 4<sup>th</sup> year at faculty of medicine and the younger one is 9 years old.<br/>I'm a student at the faculty of engineering, my 1<sup>st</sup> year at the faculty was like <i><del>hell</del></i> <ins>heaven</ins>, now I'm patiently waiting to know my grades.</p>
+<h2>Favourite Website :</h2>
+<p>I like more than one website such as <a href="http://www.facebook.com">Facebook</a>, <a href="http://www.youtube.com">Youtube</a> and about 3 or 4 other websites.<br/> But my <i>favourite websites</i> is <a href="http://www.google.com">Google</a>, it helps me a lot when I'm searching for almost anything.</p> <img src="http://www.google.se/images/google_80wht.gif" alt="Google logo">
+</body>
+</html>
